@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="190dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/customerid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 26918" />
+
+        <TextView
+            android:id="@+id/userid"
+            android:layout_width="wrap_content"
+            android:layout_height="33dp"
+            android:layout_gravity="center_horizontal"
+            android:text=" 1010786" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:text=" Thymum tremo tracto ago campana qui cruciamentum sponte bibo infit." />
+
+        <TextView
+            android:id="@+id/body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:text=" Turpe comes crapula. Reprehenderit doloribus consequuntur. Tabesco concido conventus. Clibanus beatae aeneus. Solium communis barba. Depereo valetudo autem. \nTersus aliquam consequuntur. Despirmatio adhuc quaerat. Vobis depromo carbo. Vigor ver animadverto. Spiritus creber ustulo. Ullam aureus toties. Contabesco vinculum sed. Aspicio candidus dignissimos. Neque demoror dolor. Harum aptus amplexus." />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
